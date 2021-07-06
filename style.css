@@ -43,7 +43,7 @@ body{
 .link-button{
     text-decoration: none;
     color: #fff;
-    background-image: linear-gradient(to right, tomato, red);
+    background-image: linear-gradient(to right, #FBA24F, #FF1E1E);
     padding: 18px 32px;
     border-radius: 100px;
 }
