@@ -21,8 +21,9 @@ body{
     font-weight: 500;
 }
 .half-width img{
-    width: 80%;
-    margin-left: 120px;
+    width: 70%;
+    padding-top: 50px;
+    margin-left: 80px;
 }
 .half-width a{
     margin-top: 15px;
@@ -43,7 +44,7 @@ body{
     border-radius: 100px;
 }
 .about-me{
-    background-image: url(./images/about-background.jpg);
+    background-image: url(./images/about.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -76,9 +77,9 @@ body{
     text-align: justify;
     border-radius: 25px;
     background: #FFFFFF;
+    line-height: 30px;
     margin: 0 auto;
     box-shadow: 5px 5px 30px grey
-    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; */
 }
 .card-item img{
     width: 100%;
